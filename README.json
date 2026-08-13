@@ -1,0 +1,792 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "I MISS FAUNA",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-11-11T23:23:41Z",
+                "owner": "saplinganon",
+                "repo": "imissfauna.com",
+                "stars": 38
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "I MISS IRyS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-12-12T21:43:29Z",
+                "owner": "irystocratanon",
+                "repo": "i.miss.irys.moe",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Only kronii",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2023-02-06T21:11:08Z",
+                "owner": "OnlyKronii",
+                "repo": "OnlyKronii.github.io",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "IS ayame live today",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2023-04-28T11:49:40Z",
+                "owner": "canaria3406",
+                "repo": "canaria-nakiri",
+                "stars": 11
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "IS uto live",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-04-07T08:01:47Z",
+                "owner": "phillychi3",
+                "repo": "isutolive",
+                "stars": 0
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Fun"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Learn Japanese with Hololive",
+          "description": "⚡️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-12T06:42:45Z",
+            "owner": "sigvt",
+            "repo": "learn-japanese",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learn Bahasa Indonesia with VTubers",
+          "description": "⚡️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-06-23T11:37:54Z",
+            "owner": "sigvt",
+            "repo": "learn-bahasa-indonesia",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learn English with Hololive",
+          "description": "⚡️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-12T06:43:12Z",
+            "owner": "sigvt",
+            "repo": "learn-english",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Do HoloID Say It",
+          "description": "⚡️ - See how HoloID members use certain phrase or word.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-06-23T11:37:54Z",
+                "owner": "sigvt",
+                "repo": "learn-bahasa-indonesia",
+                "stars": 3
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Language Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VTuber Music Dataset",
+          "description": "VTuber が投稿した歌ってみた動画の情報を人力で集めたデータセット",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-05-01T21:13:33Z",
+            "owner": "meihei3",
+            "repo": "VTuber-music-dataset",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Vtuber 1B",
+          "description": "⚡️ - Large Scale Virtual YouTubers Live Chat and Superchat Dataset for NLP",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-08-04T05:34:49Z",
+                "owner": "sigvt",
+                "repo": "vtuber-livechat-dataset",
+                "stars": 98
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "vdb",
+          "description": "JSON Database of Vtubers",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T03:55:51Z",
+                "owner": "dd-center",
+                "repo": "vdb",
+                "stars": 206
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Vlueprint",
+          "description": "VTuber LOD",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2023-01-27T04:37:43Z",
+                "owner": "vlueprint",
+                "repo": "vlueprint",
+                "stars": 40
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Dataset & Database"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Holodex",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Vue",
+                "last_commit": "2026-08-06T07:48:55Z",
+                "owner": "HolodexNet",
+                "repo": "Holodex",
+                "stars": 665
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "HoloTools",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-01-07T20:12:24Z",
+                "owner": "holofans",
+                "repo": "holoapi",
+                "stars": 196
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "HoloData",
+          "description": "ホロライブの総合情報閲覧サイト",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2022-12-13T06:54:52Z",
+                "owner": "yoshitsugu-tahara",
+                "repo": "HoloData",
+                "stars": 3
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Search Engine"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "HoloStats",
+          "description": "VTubers Statistics and Data Visualization",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2024-07-02T02:37:30Z",
+                "owner": "vtstats",
+                "repo": "web",
+                "stars": 145
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Hololive YouTube Subscriber Count",
+          "description": "A web app that shows a graph for the number of subscribers of each of the Hololive members.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2025-01-25T17:36:13Z",
+                "owner": "dreamwithnokz",
+                "repo": "hololive-youtube-subscriber-count",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Hololive Viewership Stats",
+          "description": "A self-updating, interactive plot of daily viewership counts for Hololive members.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T16:51:29Z",
+                "owner": "Speculative",
+                "repo": "hodllive",
+                "stars": 2
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Statistics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "HoloClouds",
+          "description": "Program that generates WordClouds from VTuber 1B Dataset",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-02-15T03:43:13Z",
+                "owner": "Yagato",
+                "repo": "HoloClouds",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Ninomae Ina'nis Horror Week HR Chart",
+          "description": "OCR reading of Ina's heart rate during her Horror Week streams.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2021-08-02T21:21:58Z",
+                "owner": "vignedev",
+                "repo": "inadoki",
+                "stars": 2
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Visualizations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hoshinova",
+          "description": "Schedule downloads of Youtube live streams",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-19T00:08:13Z",
+            "owner": "HoloArchivists",
+            "repo": "hoshinova",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YoutubeLiveApp",
+          "description": "YoutubeLive をめっちゃ便利にするツール（仮)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2021-09-19T13:23:38Z",
+            "owner": "hapo31",
+            "repo": "YoutubeLiveApp",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hololive xbar plugin",
+          "description": "A Hololive xbar plugin, as a front end for Holofans and Holodex APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-04-17T11:38:00Z",
+            "owner": "danirukun",
+            "repo": "hololive-menubar-plugin",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "LiveTL",
+          "description": "Get live translations for YouTube streams, crowdsourced from multilingual viewers!",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Svelte",
+                "last_commit": "2026-08-09T17:16:49Z",
+                "owner": "LiveTL",
+                "repo": "LiveTL",
+                "stars": 617
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "HyperChat",
+          "description": "Optimized YouTube Chat",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "TypeScript",
+                "last_commit": "2026-08-09T00:16:14Z",
+                "owner": "LiveTL",
+                "repo": "HyperChat",
+                "stars": 330
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DOG",
+          "description": "Discord overlay generator for OBS, Xsplit and etc. broadcast programs. Feel free to participate in development of this tool and suggest some improvements or new CSS-hacks!",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-10-28T21:08:26Z",
+                "owner": "paulvonlecter",
+                "repo": "DOG",
+                "stars": 4
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pytchat",
+          "description": "Python library for youtube chat.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-07-24T14:02:17Z",
+            "owner": "taizan-hokuto",
+            "repo": "pytchat",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Masterchat",
+          "description": "⚡️ - A Node.js library for YouTube Live Chat",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-12T23:10:37Z",
+            "owner": "sigvt",
+            "repo": "masterchat",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Honeybee",
+          "description": "⚡️ - Distributed YouTube live chat events collector",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-07-15T10:42:34Z",
+            "owner": "sigvt",
+            "repo": "honeybee",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vt-api",
+          "description": "A Mongoose / GraphQL based API to serve VTuber information from multiple platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-04-09T07:09:18Z",
+            "owner": "Chooks22",
+            "repo": "vt-api",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "youtube-lv",
+          "description": "get the youtube live status",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-09T07:12:11Z",
+            "owner": "phillychi3",
+            "repo": "youtube_lv",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hololive-now-server",
+          "description": "ホロジュールからスクレイピングして配信スケジュールを取得する API 鯖",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-10T16:41:01Z",
+            "owner": "drumath2237",
+            "repo": "hololive-now-server",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alkonost",
+          "description": "Simple spam detector for YouTube chats with different UI options",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-25T02:46:41Z",
+            "owner": "Asapin",
+            "repo": "alkonost",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "holotools-api",
+          "description": "A Javascript library for the Holotools API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-04-25T12:51:53Z",
+            "owner": "HoloRes",
+            "repo": "holotools-api",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ex-Holodex",
+          "description": "Elixir client library for the Holodex API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2024-04-23T20:16:27Z",
+            "owner": "danirukun",
+            "repo": "ex-holodex",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Dev Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vPen",
+          "description": "Digital pen tracking OBS overlay for vtubers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-20T21:36:01Z",
+            "owner": "GirkovArpa",
+            "repo": "vpen",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Ancient One Dark",
+          "description": "⚡️ - VS Code purple theme for the ancient ones",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Makefile",
+                "last_commit": "2022-07-04T05:28:35Z",
+                "owner": "sigvt",
+                "repo": "ancient-one-dark",
+                "stars": 27
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "sup4bubb4",
+          "description": "Amelia Watson's SC reading VODs synced up with bubb4bot queue",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2024-08-11T00:06:50Z",
+                "owner": "vadimegorov13",
+                "repo": "sup4bubb4",
+                "stars": 1
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FBK",
+          "description": "FBK is a publicly-hosted chat bot for your Discord server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-03T21:12:40Z",
+            "owner": "kabiiQ",
+            "repo": "FBK",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Luna Translation Bot",
+          "description": "A complex and popular Discord bot for the Hololive fandom, written in TypeScript.",
+          "children": []
+        }
+      ],
+      "title": "Discord"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:24:04.106Z",
+    "original_repository": "sigvt/awesome-vtuber",
+    "original_repository_sha": "174c50f316bcbb395a8f45dd7eea6619c082ba3e",
+    "enhanced_repository": "enhansome/enhansome-vtuber",
+    "enhanced_repository_description": null,
+    "title": "Awesome VTuber with stars"
+  }
+}
