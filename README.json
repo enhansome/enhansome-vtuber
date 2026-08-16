@@ -390,7 +390,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-15T16:16:52Z",
+                "last_commit": "2026-08-16T16:17:05Z",
                 "owner": "Speculative",
                 "repo": "hodllive",
                 "stars": 2
@@ -507,7 +507,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Svelte",
-                "last_commit": "2026-08-15T19:37:08Z",
+                "last_commit": "2026-08-16T03:20:30Z",
                 "owner": "LiveTL",
                 "repo": "LiveTL",
                 "stars": 617
@@ -782,7 +782,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:54:08.311Z",
+    "last_updated": "2026-08-16T19:53:43.216Z",
     "original_repository": "sigvt/awesome-vtuber",
     "original_repository_sha": "174c50f316bcbb395a8f45dd7eea6619c082ba3e",
     "enhanced_repository": "enhansome/enhansome-vtuber",
