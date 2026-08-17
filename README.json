@@ -231,7 +231,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-15T10:19:13Z",
+                "last_commit": "2026-08-17T12:27:01Z",
                 "owner": "dd-center",
                 "repo": "vdb",
                 "stars": 206
@@ -390,7 +390,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T16:17:05Z",
+                "last_commit": "2026-08-17T16:20:24Z",
                 "owner": "Speculative",
                 "repo": "hodllive",
                 "stars": 2
@@ -507,7 +507,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Svelte",
-                "last_commit": "2026-08-16T03:20:30Z",
+                "last_commit": "2026-08-17T18:27:44Z",
                 "owner": "LiveTL",
                 "repo": "LiveTL",
                 "stars": 617
@@ -782,7 +782,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:53:43.216Z",
+    "last_updated": "2026-08-17T19:58:03.564Z",
     "original_repository": "sigvt/awesome-vtuber",
     "original_repository_sha": "174c50f316bcbb395a8f45dd7eea6619c082ba3e",
     "enhanced_repository": "enhansome/enhansome-vtuber",
