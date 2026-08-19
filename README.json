@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -15,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 428920989,
                 "language": "JavaScript",
                 "last_commit": "2024-11-11T23:23:41Z",
                 "owner": "saplinganon",
@@ -36,6 +37,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 433253081,
                 "language": "JavaScript",
                 "last_commit": "2024-12-12T21:43:29Z",
                 "owner": "irystocratanon",
@@ -57,6 +59,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 485456802,
                 "language": "HTML",
                 "last_commit": "2023-02-06T21:11:08Z",
                 "owner": "OnlyKronii",
@@ -78,6 +81,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 466579573,
                 "language": "CSS",
                 "last_commit": "2023-04-28T11:49:40Z",
                 "owner": "canaria3406",
@@ -99,6 +103,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 498231033,
                 "language": "JavaScript",
                 "last_commit": "2023-04-07T08:01:47Z",
                 "owner": "phillychi3",
@@ -112,7 +117,7 @@
       "title": "Fun"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -121,6 +126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 486854300,
             "language": null,
             "last_commit": "2022-06-12T06:42:45Z",
             "owner": "sigvt",
@@ -135,6 +141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 480642335,
             "language": "Jupyter Notebook",
             "last_commit": "2022-06-23T11:37:54Z",
             "owner": "sigvt",
@@ -149,6 +156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 496919329,
             "language": null,
             "last_commit": "2022-06-12T06:43:12Z",
             "owner": "sigvt",
@@ -168,6 +176,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 480642335,
                 "language": "Jupyter Notebook",
                 "last_commit": "2022-06-23T11:37:54Z",
                 "owner": "sigvt",
@@ -181,7 +190,7 @@
       "title": "Language Learning"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -190,6 +199,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196398854,
             "language": "HTML",
             "last_commit": "2023-05-01T21:13:33Z",
             "owner": "meihei3",
@@ -209,6 +219,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 347680114,
                 "language": "Python",
                 "last_commit": "2022-08-04T05:34:49Z",
                 "owner": "sigvt",
@@ -230,6 +241,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 192019597,
                 "language": "JavaScript",
                 "last_commit": "2026-08-18T03:38:01Z",
                 "owner": "dd-center",
@@ -251,6 +263,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 245759635,
                 "language": "TypeScript",
                 "last_commit": "2023-01-27T04:37:43Z",
                 "owner": "vlueprint",
@@ -264,7 +277,7 @@
       "title": "Dataset & Database"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -278,11 +291,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 289465557,
                 "language": "Vue",
                 "last_commit": "2026-08-06T07:48:55Z",
                 "owner": "HolodexNet",
                 "repo": "Holodex",
-                "stars": 665
+                "stars": 666
               }
             }
           ]
@@ -299,6 +313,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 254428368,
                 "language": "JavaScript",
                 "last_commit": "2023-01-07T20:12:24Z",
                 "owner": "holofans",
@@ -320,6 +335,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 415510279,
                 "language": "TypeScript",
                 "last_commit": "2022-12-13T06:54:52Z",
                 "owner": "yoshitsugu-tahara",
@@ -333,7 +349,7 @@
       "title": "Search Engine"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -347,6 +363,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 204281027,
                 "language": "TypeScript",
                 "last_commit": "2024-07-02T02:37:30Z",
                 "owner": "vtstats",
@@ -368,6 +385,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 306861083,
                 "language": "JavaScript",
                 "last_commit": "2025-01-25T17:36:13Z",
                 "owner": "dreamwithnokz",
@@ -389,6 +407,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 297743810,
                 "language": "Python",
                 "last_commit": "2026-08-18T16:23:28Z",
                 "owner": "Speculative",
@@ -402,7 +421,7 @@
       "title": "Statistics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -416,6 +435,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 379208534,
                 "language": "Python",
                 "last_commit": "2023-02-15T03:43:13Z",
                 "owner": "Yagato",
@@ -437,6 +457,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 391719303,
                 "language": "Shell",
                 "last_commit": "2021-08-02T21:21:58Z",
                 "owner": "vignedev",
@@ -450,7 +471,7 @@
       "title": "Visualizations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -459,6 +480,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469833542,
             "language": "Rust",
             "last_commit": "2024-04-19T00:08:13Z",
             "owner": "HoloArchivists",
@@ -473,6 +495,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 270766193,
             "language": "TypeScript",
             "last_commit": "2021-09-19T13:23:38Z",
             "owner": "hapo31",
@@ -487,6 +510,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 391334645,
             "language": "Ruby",
             "last_commit": "2022-04-17T11:38:00Z",
             "owner": "danirukun",
@@ -506,6 +530,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 314984533,
                 "language": "Svelte",
                 "last_commit": "2026-08-17T18:27:44Z",
                 "owner": "LiveTL",
@@ -527,6 +552,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 328105232,
                 "language": "TypeScript",
                 "last_commit": "2026-08-09T00:16:14Z",
                 "owner": "LiveTL",
@@ -548,6 +574,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 315007707,
                 "language": "JavaScript",
                 "last_commit": "2023-10-28T21:08:26Z",
                 "owner": "paulvonlecter",
@@ -561,7 +588,7 @@
       "title": "Apps"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -570,6 +597,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 219229213,
             "language": "Python",
             "last_commit": "2021-07-24T14:02:17Z",
             "owner": "taizan-hokuto",
@@ -584,6 +612,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 350547357,
             "language": "TypeScript",
             "last_commit": "2024-05-12T23:10:37Z",
             "owner": "sigvt",
@@ -598,6 +627,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325058479,
             "language": "TypeScript",
             "last_commit": "2022-07-15T10:42:34Z",
             "owner": "sigvt",
@@ -612,6 +642,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 283833630,
             "language": "TypeScript",
             "last_commit": "2022-04-09T07:09:18Z",
             "owner": "Chooks22",
@@ -626,6 +657,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 337519843,
             "language": "Python",
             "last_commit": "2026-04-09T07:12:11Z",
             "owner": "phillychi3",
@@ -640,6 +672,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237462996,
             "language": "TypeScript",
             "last_commit": "2022-12-10T16:41:01Z",
             "owner": "drumath2237",
@@ -654,6 +687,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 410550049,
             "language": "Rust",
             "last_commit": "2026-04-25T02:46:41Z",
             "owner": "Asapin",
@@ -668,6 +702,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 336581108,
             "language": "TypeScript",
             "last_commit": "2022-04-25T12:51:53Z",
             "owner": "HoloRes",
@@ -682,6 +717,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 400290151,
             "language": "Elixir",
             "last_commit": "2024-04-23T20:16:27Z",
             "owner": "danirukun",
@@ -693,7 +729,7 @@
       "title": "Dev Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -702,6 +738,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 504612934,
             "language": "JavaScript",
             "last_commit": "2022-10-20T21:36:01Z",
             "owner": "GirkovArpa",
@@ -721,6 +758,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 393564000,
                 "language": "Makefile",
                 "last_commit": "2022-07-04T05:28:35Z",
                 "owner": "sigvt",
@@ -742,6 +780,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 523050849,
                 "language": "TypeScript",
                 "last_commit": "2024-08-11T00:06:50Z",
                 "owner": "vadimegorov13",
@@ -755,7 +794,7 @@
       "title": "Misc"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -764,26 +803,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188973177,
             "language": "Kotlin",
             "last_commit": "2026-05-03T21:12:40Z",
             "owner": "kabiiQ",
             "repo": "FBK",
             "stars": 58
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Luna Translation Bot",
-          "description": "A complex and popular Discord bot for the Hololive fandom, written in TypeScript.",
-          "children": []
         }
       ],
       "title": "Discord"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:56:28.297Z",
+    "last_updated": "2026-08-19T12:57:24.688Z",
     "original_repository": "sigvt/awesome-vtuber",
+    "original_repository_id": 356792761,
     "original_repository_sha": "174c50f316bcbb395a8f45dd7eea6619c082ba3e",
     "enhanced_repository": "enhansome/enhansome-vtuber",
     "enhanced_repository_description": null,
