@@ -409,7 +409,7 @@
                 "archived": false,
                 "id": 297743810,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:24:55Z",
+                "last_commit": "2026-08-22T16:16:24Z",
                 "owner": "Speculative",
                 "repo": "hodllive",
                 "stars": 2
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:55:56.488Z",
+    "last_updated": "2026-08-22T19:54:56.170Z",
     "original_repository": "sigvt/awesome-vtuber",
     "original_repository_id": 356792761,
     "original_repository_sha": "174c50f316bcbb395a8f45dd7eea6619c082ba3e",
