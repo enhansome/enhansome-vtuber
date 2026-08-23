@@ -224,7 +224,7 @@
                 "last_commit": "2022-08-04T05:34:49Z",
                 "owner": "sigvt",
                 "repo": "vtuber-livechat-dataset",
-                "stars": 98
+                "stars": 99
               }
             }
           ]
@@ -409,7 +409,7 @@
                 "archived": false,
                 "id": 297743810,
                 "language": "Python",
-                "last_commit": "2026-08-22T16:16:24Z",
+                "last_commit": "2026-08-23T16:17:44Z",
                 "owner": "Speculative",
                 "repo": "hodllive",
                 "stars": 2
@@ -532,7 +532,7 @@
                 "archived": false,
                 "id": 314984533,
                 "language": "Svelte",
-                "last_commit": "2026-08-20T18:13:14Z",
+                "last_commit": "2026-08-23T16:10:14Z",
                 "owner": "LiveTL",
                 "repo": "LiveTL",
                 "stars": 618
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:54:56.170Z",
+    "last_updated": "2026-08-23T19:54:46.207Z",
     "original_repository": "sigvt/awesome-vtuber",
     "original_repository_id": 356792761,
     "original_repository_sha": "174c50f316bcbb395a8f45dd7eea6619c082ba3e",

@@ -50,7 +50,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 
 * [VTuber Music Dataset](https://github.com/yameholo/VTuber-music-dataset) ⭐ 0 | 🐛 2 | 🌐 HTML | 📅 2023-05-01 - VTuber が投稿した歌ってみた動画の情報を人力で集めたデータセット
 * [Vtuber 1B](https://www.kaggle.com/uetchy/vtuber-livechat)⚡️ - Large Scale Virtual YouTubers Live Chat and Superchat Dataset for NLP
-  * [Source Code](https://github.com/holodata/vtuber-livechat-dataset) ⭐ 98 | 🐛 1 | 🌐 Python | 📅 2022-08-04
+  * [Source Code](https://github.com/holodata/vtuber-livechat-dataset) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2022-08-04
 * [vdb](https://vdb.vtbs.moe/) - JSON Database of Vtubers
   * [Source Code](https://github.com/dd-center/vdb) ⭐ 206 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-18
 * [Vlueprint](https://vlueprint.org/) - VTuber LOD
@@ -83,7 +83,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 * [Hololive YouTube Subscriber Count](https://hololiveyoutubesubscribercount.vercel.app/) - A web app that shows a graph for the number of subscribers of each of the Hololive members.
   * [Source Code](https://github.com/DreamWithNokz/hololive-youtube-subscriber-count) ⭐ 5 | 🐛 4 | 🌐 JavaScript | 📅 2025-01-25
 * [Hololive Viewership Stats](http://jefftao.com/hodllive/#/subs/value) - A self-updating, interactive plot of daily viewership counts for Hololive members.
-  * [Source Code](https://github.com/Speculative/hodllive) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-08-22
+  * [Source Code](https://github.com/Speculative/hodllive) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-08-23
 * [HoloTracker](https://trackholo.live/en/) - Transition of Subscribers to the Hololive Channel
 * [tuber report](https://tuber.report/) - engagement metrics for 'tubers
 * [VTuber Chat Trends](https://www.vtuber-ct.net) - VTuber Chat Trends では、VTuber のライブ配信のチャット内で、どのようなキーワードが多く発言されたかを確認することができます。
@@ -121,7 +121,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 * [YoutubeLiveApp](https://github.com/hapo31/YoutubeLiveApp/) ⚠️ Archived - YoutubeLive をめっちゃ便利にするツール（仮)
 * [Hololive xbar plugin](https://github.com/DaniruKun/hololive-xbar-plugin) ⭐ 0 | 🐛 2 | 🌐 Ruby | 📅 2022-04-17 - A Hololive xbar plugin, as a front end for Holofans and Holodex APIs.
 * [LiveTL](https://livetl.app/en/home/) - Get live translations for YouTube streams, crowdsourced from multilingual viewers!
-  * [Source Code](https://github.com/LiveTL/LiveTL) ⭐ 618 | 🐛 74 | 🌐 Svelte | 📅 2026-08-20
+  * [Source Code](https://github.com/LiveTL/LiveTL) ⭐ 618 | 🐛 76 | 🌐 Svelte | 📅 2026-08-23
 * [HyperChat](https://livetl.app/en/hyperchat/) - Optimized YouTube Chat
   * [Source Code](https://github.com/LiveTL/HyperChat) ⚠️ Archived
 * [DOG](https://paulvonlecter.github.io/DOG/) - Discord overlay generator for OBS, Xsplit and etc. broadcast programs. Feel free to participate in development of this tool and suggest some improvements or new CSS-hacks!
@@ -164,4 +164,4 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
