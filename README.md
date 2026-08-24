@@ -83,7 +83,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 * [Hololive YouTube Subscriber Count](https://hololiveyoutubesubscribercount.vercel.app/) - A web app that shows a graph for the number of subscribers of each of the Hololive members.
   * [Source Code](https://github.com/DreamWithNokz/hololive-youtube-subscriber-count) ⭐ 5 | 🐛 4 | 🌐 JavaScript | 📅 2025-01-25
 * [Hololive Viewership Stats](http://jefftao.com/hodllive/#/subs/value) - A self-updating, interactive plot of daily viewership counts for Hololive members.
-  * [Source Code](https://github.com/Speculative/hodllive) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-08-23
+  * [Source Code](https://github.com/Speculative/hodllive) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-08-24
 * [HoloTracker](https://trackholo.live/en/) - Transition of Subscribers to the Hololive Channel
 * [tuber report](https://tuber.report/) - engagement metrics for 'tubers
 * [VTuber Chat Trends](https://www.vtuber-ct.net) - VTuber Chat Trends では、VTuber のライブ配信のチャット内で、どのようなキーワードが多く発言されたかを確認することができます。
