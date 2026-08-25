@@ -10,7 +10,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "saplinganon/imissfauna.com",
               "description": null,
               "children": [],
               "repo_info": {
@@ -32,7 +32,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "irystocratanon/i.miss.irys.moe",
               "description": null,
               "children": [],
               "repo_info": {
@@ -54,7 +54,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "OnlyKronii/OnlyKronii.github.io",
               "description": null,
               "children": [],
               "repo_info": {
@@ -76,7 +76,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "canaria3406/canaria-nakiri",
               "description": null,
               "children": [],
               "repo_info": {
@@ -98,7 +98,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "phillychi3/isutolive",
               "description": null,
               "children": [],
               "repo_info": {
@@ -171,7 +171,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "sigvt/learn-bahasa-indonesia",
               "description": null,
               "children": [],
               "repo_info": {
@@ -214,7 +214,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "sigvt/vtuber-livechat-dataset",
               "description": null,
               "children": [],
               "repo_info": {
@@ -236,7 +236,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "dd-center/vdb",
               "description": null,
               "children": [],
               "repo_info": {
@@ -258,7 +258,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "vlueprint/vlueprint",
               "description": null,
               "children": [],
               "repo_info": {
@@ -286,7 +286,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "HolodexNet/Holodex",
               "description": null,
               "children": [],
               "repo_info": {
@@ -308,7 +308,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "holofans/holoapi",
               "description": null,
               "children": [],
               "repo_info": {
@@ -330,7 +330,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "yoshitsugu-tahara/HoloData",
               "description": null,
               "children": [],
               "repo_info": {
@@ -358,7 +358,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "vtstats/web",
               "description": null,
               "children": [],
               "repo_info": {
@@ -380,7 +380,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "dreamwithnokz/hololive-youtube-subscriber-count",
               "description": null,
               "children": [],
               "repo_info": {
@@ -402,7 +402,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "Speculative/hodllive",
               "description": null,
               "children": [],
               "repo_info": {
@@ -430,7 +430,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "Yagato/HoloClouds",
               "description": null,
               "children": [],
               "repo_info": {
@@ -452,7 +452,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "vignedev/inadoki",
               "description": null,
               "children": [],
               "repo_info": {
@@ -525,14 +525,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "LiveTL/LiveTL",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 314984533,
                 "language": "Svelte",
-                "last_commit": "2026-08-23T16:10:14Z",
+                "last_commit": "2026-08-24T20:30:04Z",
                 "owner": "LiveTL",
                 "repo": "LiveTL",
                 "stars": 618
@@ -547,7 +547,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "LiveTL/HyperChat",
               "description": null,
               "children": [],
               "repo_info": {
@@ -557,7 +557,7 @@
                 "last_commit": "2026-08-09T00:16:14Z",
                 "owner": "LiveTL",
                 "repo": "HyperChat",
-                "stars": 330
+                "stars": 329
               }
             }
           ]
@@ -569,7 +569,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "paulvonlecter/DOG",
               "description": null,
               "children": [],
               "repo_info": {
@@ -753,7 +753,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "sigvt/ancient-one-dark",
               "description": null,
               "children": [],
               "repo_info": {
@@ -775,7 +775,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "vadimegorov13/sup4bubb4",
               "description": null,
               "children": [],
               "repo_info": {
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T20:01:31.186Z",
+    "last_updated": "2026-08-25T06:37:51.309Z",
     "original_repository": "sigvt/awesome-vtuber",
     "original_repository_id": 356792761,
     "original_repository_sha": "174c50f316bcbb395a8f45dd7eea6619c082ba3e",

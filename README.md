@@ -121,7 +121,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 * [YoutubeLiveApp](https://github.com/hapo31/YoutubeLiveApp/) ⚠️ Archived - YoutubeLive をめっちゃ便利にするツール（仮)
 * [Hololive xbar plugin](https://github.com/DaniruKun/hololive-xbar-plugin) ⭐ 0 | 🐛 2 | 🌐 Ruby | 📅 2022-04-17 - A Hololive xbar plugin, as a front end for Holofans and Holodex APIs.
 * [LiveTL](https://livetl.app/en/home/) - Get live translations for YouTube streams, crowdsourced from multilingual viewers!
-  * [Source Code](https://github.com/LiveTL/LiveTL) ⭐ 618 | 🐛 76 | 🌐 Svelte | 📅 2026-08-23
+  * [Source Code](https://github.com/LiveTL/LiveTL) ⭐ 618 | 🐛 76 | 🌐 Svelte | 📅 2026-08-24
 * [HyperChat](https://livetl.app/en/hyperchat/) - Optimized YouTube Chat
   * [Source Code](https://github.com/LiveTL/HyperChat) ⚠️ Archived
 * [DOG](https://paulvonlecter.github.io/DOG/) - Discord overlay generator for OBS, Xsplit and etc. broadcast programs. Feel free to participate in development of this tool and suggest some improvements or new CSS-hacks!
@@ -164,4 +164,4 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
