@@ -243,7 +243,7 @@
                 "archived": false,
                 "id": 192019597,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T03:38:01Z",
+                "last_commit": "2026-08-26T07:09:24Z",
                 "owner": "dd-center",
                 "repo": "vdb",
                 "stars": 206
@@ -409,7 +409,7 @@
                 "archived": false,
                 "id": 297743810,
                 "language": "Python",
-                "last_commit": "2026-08-25T16:29:16Z",
+                "last_commit": "2026-08-26T16:43:42Z",
                 "owner": "Speculative",
                 "repo": "hodllive",
                 "stars": 2
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:00:33.968Z",
+    "last_updated": "2026-08-26T22:30:05.564Z",
     "original_repository": "sigvt/awesome-vtuber",
     "original_repository_id": 356792761,
     "original_repository_sha": "174c50f316bcbb395a8f45dd7eea6619c082ba3e",
