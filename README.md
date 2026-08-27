@@ -52,7 +52,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 * [Vtuber 1B](https://www.kaggle.com/uetchy/vtuber-livechat)⚡️ - Large Scale Virtual YouTubers Live Chat and Superchat Dataset for NLP
   * [Source Code](https://github.com/holodata/vtuber-livechat-dataset) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2022-08-04
 * [vdb](https://vdb.vtbs.moe/) - JSON Database of Vtubers
-  * [Source Code](https://github.com/dd-center/vdb) ⭐ 206 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-26
+  * [Source Code](https://github.com/dd-center/vdb) ⭐ 206 | 🐛 38 | 🌐 JavaScript | 📅 2026-08-27
 * [Vlueprint](https://vlueprint.org/) - VTuber LOD
   * [Source Code](https://github.com/vlueprint/vlueprint) ⭐ 40 | 🐛 45 | 🌐 TypeScript | 📅 2023-01-27
 * [バーチャル YouTuberLOD (VTuber LOD)](https://mdlab.slis.tsukuba.ac.jp/lodc2018/vtuber/) - VTuber LOD
@@ -121,7 +121,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 * [YoutubeLiveApp](https://github.com/hapo31/YoutubeLiveApp/) ⚠️ Archived - YoutubeLive をめっちゃ便利にするツール（仮)
 * [Hololive xbar plugin](https://github.com/DaniruKun/hololive-xbar-plugin) ⭐ 0 | 🐛 2 | 🌐 Ruby | 📅 2022-04-17 - A Hololive xbar plugin, as a front end for Holofans and Holodex APIs.
 * [LiveTL](https://livetl.app/en/home/) - Get live translations for YouTube streams, crowdsourced from multilingual viewers!
-  * [Source Code](https://github.com/LiveTL/LiveTL) ⭐ 618 | 🐛 76 | 🌐 Svelte | 📅 2026-08-24
+  * [Source Code](https://github.com/LiveTL/LiveTL) ⭐ 618 | 🐛 76 | 🌐 Svelte | 📅 2026-08-27
 * [HyperChat](https://livetl.app/en/hyperchat/) - Optimized YouTube Chat
   * [Source Code](https://github.com/LiveTL/HyperChat) ⚠️ Archived
 * [DOG](https://paulvonlecter.github.io/DOG/) - Discord overlay generator for OBS, Xsplit and etc. broadcast programs. Feel free to participate in development of this tool and suggest some improvements or new CSS-hacks!
@@ -164,4 +164,4 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
