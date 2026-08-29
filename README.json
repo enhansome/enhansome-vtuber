@@ -15,12 +15,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 428920989,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-11T23:23:41Z",
+                "open_issues": 0,
                 "owner": "saplinganon",
                 "repo": "imissfauna.com",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "nextjs",
+                  "vtuber",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -38,12 +47,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://irys.moe",
                 "id": 433253081,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-12T21:43:29Z",
+                "open_issues": 4,
                 "owner": "irystocratanon",
                 "repo": "i.miss.irys.moe",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -61,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 485456802,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-02-06T21:11:08Z",
+                "open_issues": 1,
                 "owner": "OnlyKronii",
                 "repo": "OnlyKronii.github.io",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -84,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A useless website that shows the streaming status of my favorite vtuber.",
+                "homepage": "https://nakiri.canaria.cc/",
                 "id": 466579573,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2023-04-28T11:49:40Z",
+                "open_issues": 2,
                 "owner": "canaria3406",
                 "repo": "canaria-nakiri",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -107,12 +131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://phillychi3.github.io/isutolive/",
                 "id": 498231033,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-04-07T08:01:47Z",
+                "open_issues": 0,
                 "owner": "phillychi3",
                 "repo": "isutolive",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -131,12 +160,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇯🇵 Learn Japanese with Hololive",
+            "homepage": null,
             "id": 486854300,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-06-12T06:42:45Z",
+            "open_issues": 0,
             "owner": "sigvt",
             "repo": "learn-japanese",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "hololive",
+              "japanese",
+              "japanese-language"
+            ]
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         },
@@ -147,12 +185,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇮🇩 Learn Bahasa Indonesia with VTubers",
+            "homepage": "https://learn-id.holodata.org",
             "id": 480642335,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-06-23T11:37:54Z",
+            "open_issues": 0,
             "owner": "sigvt",
             "repo": "learn-bahasa-indonesia",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "bahasa-indonesia",
+              "holoid",
+              "hololive",
+              "hololive-indonesia",
+              "indonesian-language",
+              "vtuber"
+            ]
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         },
@@ -163,12 +213,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇬🇧 Learn English with Hololive",
+            "homepage": null,
             "id": 496919329,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2022-06-12T06:43:12Z",
+            "open_issues": 0,
             "owner": "sigvt",
             "repo": "learn-english",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "english",
+              "hololive"
+            ]
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         },
@@ -184,12 +242,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🇮🇩 Learn Bahasa Indonesia with VTubers",
+                "homepage": "https://learn-id.holodata.org",
                 "id": 480642335,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-06-23T11:37:54Z",
+                "open_issues": 0,
                 "owner": "sigvt",
                 "repo": "learn-bahasa-indonesia",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "bahasa-indonesia",
+                  "holoid",
+                  "hololive",
+                  "hololive-indonesia",
+                  "indonesian-language",
+                  "vtuber"
+                ]
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -208,12 +278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 196398854,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-05-01T21:13:33Z",
+            "open_issues": 2,
             "owner": "meihei3",
             "repo": "VTuber-music-dataset",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         },
@@ -229,12 +304,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📊 VTuber 1B: Billion-scale Live Chat and Moderation Event Dataset",
+                "homepage": "https://www.kaggle.com/uetchy/vtuber-livechat",
                 "id": 347680114,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-04T05:34:49Z",
+                "open_issues": 1,
                 "owner": "sigvt",
                 "repo": "vtuber-livechat-dataset",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "data-science",
+                  "dataset",
+                  "holodata",
+                  "hololive",
+                  "machine-learning",
+                  "nijisanji",
+                  "nlp",
+                  "sigvt",
+                  "statistics",
+                  "superchat",
+                  "vtuber",
+                  "youtube-livestream"
+                ]
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -252,12 +345,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vtuber Database",
+                "homepage": "https://vdb.vtbs.moe",
                 "id": 192019597,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-28T03:51:26Z",
+                "open_issues": 25,
                 "owner": "dd-center",
                 "repo": "vdb",
-                "stars": 206
+                "stars": 206,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -275,12 +373,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VTuber の LOD です",
+                "homepage": "https://vlueprint.org/",
                 "id": 245759635,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-27T04:37:43Z",
+                "open_issues": 45,
                 "owner": "vlueprint",
                 "repo": "vlueprint",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -304,12 +407,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Holodex frontend source code",
+                "homepage": "https://holodex.net",
                 "id": 289465557,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2026-08-06T07:48:55Z",
+                "open_issues": 55,
                 "owner": "HolodexNet",
                 "repo": "Holodex",
-                "stars": 666
+                "stars": 666,
+                "topics": [
+                  "hololive",
+                  "vtuber",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -327,12 +439,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Platform to serve Hololive content to the community tools.",
+                "homepage": null,
                 "id": 254428368,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2023-01-07T20:12:24Z",
+                "open_issues": 25,
                 "owner": "holofans",
                 "repo": "holoapi",
-                "stars": 196
+                "stars": 196,
+                "topics": [
+                  "hololive",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -350,12 +470,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ホロライブの総合情報閲覧サイト",
+                "homepage": "https://holodata.vercel.app",
                 "id": 415510279,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-12-13T06:54:52Z",
+                "open_issues": 7,
                 "owner": "yoshitsugu-tahara",
                 "repo": "HoloData",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -379,12 +504,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VTubers Statistics and Data Visualization",
+                "homepage": "https://vt.poi.cat",
                 "id": 204281027,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-07-02T02:37:30Z",
+                "open_issues": 15,
                 "owner": "vtstats",
                 "repo": "web",
-                "stars": 145
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -402,12 +532,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A web app that shows a graph for the number of subscribers of each of the Hololive members.",
+                "homepage": "https://hysc.vercel.app",
                 "id": 306861083,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-01-25T17:36:13Z",
+                "open_issues": 4,
                 "owner": "dreamwithnokz",
                 "repo": "hololive-youtube-subscriber-count",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "bootstrap4",
+                  "chartjs",
+                  "colorthief",
+                  "hololive",
+                  "hololive-members",
+                  "javascript",
+                  "nextjs",
+                  "pwa",
+                  "react-bootstrap",
+                  "reactjs",
+                  "scss",
+                  "styled-components",
+                  "vercel",
+                  "vtuber",
+                  "youtube-data-api"
+                ]
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -425,12 +576,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A self-updating, interactive plot of daily viewership counts for Hololive members.",
+                "homepage": "https://www.speculative.tech/hodllive",
                 "id": 297743810,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-29T00:19:54Z",
+                "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "hololive"
+                ]
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -454,12 +612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Program that generates WordClouds using Uetchy's vtubers superchats datasets: https://www.kaggle.com/uetchy/vtuber-livechat",
+                "homepage": null,
                 "id": 379208534,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-15T03:43:13Z",
+                "open_issues": 0,
                 "owner": "Yagato",
                 "repo": "HoloClouds",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -477,12 +640,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OCR reading of Ina's heart rate during her Horror Week streams.",
+                "homepage": "https://vignedev.github.io/inadoki/",
                 "id": 391719303,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2021-08-02T21:21:58Z",
+                "open_issues": 0,
                 "owner": "vignedev",
                 "repo": "inadoki",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "hololive",
+                  "hololive-english"
+                ]
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -501,12 +672,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "garbage youtube livestream download manager",
+            "homepage": null,
             "id": 469833542,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-04-19T00:08:13Z",
+            "open_issues": 19,
             "owner": "HoloArchivists",
             "repo": "hoshinova",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "youtube-dl"
+            ]
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         },
@@ -517,12 +695,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "YoutubeLiveをめっちゃ便利にするツール（仮) https://hapo31.github.io/YoutubeLiveApp/",
+            "homepage": null,
             "id": 270766193,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-09-19T13:23:38Z",
+            "open_issues": 8,
             "owner": "hapo31",
             "repo": "YoutubeLiveApp",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         },
@@ -533,12 +716,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Hololive xbar/swiftbar plugin that allows you to view and open Hololive streams.",
+            "homepage": null,
             "id": 391334645,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2022-04-17T11:38:00Z",
+            "open_issues": 2,
             "owner": "danirukun",
             "repo": "hololive-menubar-plugin",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "hololive",
+              "ruby",
+              "swiftbar-plugins",
+              "xbar-plugin"
+            ]
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         },
@@ -554,12 +747,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LiveTL, HyperChat, and YtcFilter — We make free and open source extensions, used and loved by thousands of users around the world.",
+                "homepage": "https://livetl.app/",
                 "id": 314984533,
                 "language": "Svelte",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T00:57:53Z",
+                "open_issues": 76,
                 "owner": "LiveTL",
                 "repo": "LiveTL",
-                "stars": 618
+                "stars": 618,
+                "topics": [
+                  "hacktoberfest",
+                  "hololive",
+                  "live-translations",
+                  "smelte",
+                  "svelte",
+                  "translations",
+                  "twitch",
+                  "vtuber",
+                  "vtubers",
+                  "youtube-livestream"
+                ]
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -577,12 +786,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Improved YouTube chat with CPU/RAM optimizations, customization options, and cutting-edge features!",
+                "homepage": "https://livetl.app/hyperchat",
                 "id": 328105232,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-09T00:16:14Z",
+                "open_issues": 4,
                 "owner": "LiveTL",
                 "repo": "HyperChat",
-                "stars": 329
+                "stars": 329,
+                "topics": [
+                  "chrome-extension",
+                  "firefox-addon",
+                  "hacktoberfest",
+                  "youtube",
+                  "youtube-chat",
+                  "youtube-live",
+                  "youtube-live-chat",
+                  "youtube-livestream"
+                ]
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -600,12 +823,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discord overlay generator for OBS, Xsplit and etc. broadcast programs. Feel free to participate in development of this tool and suggest some improvements or new CSS-hacks!",
+                "homepage": "https://paulvonlecter.github.io/DOG/",
                 "id": 315007707,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-28T21:08:26Z",
+                "open_issues": 0,
                 "owner": "paulvonlecter",
                 "repo": "DOG",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "css",
+                  "css-hacks",
+                  "discord",
+                  "discord-streamkit",
+                  "discord-streamkit-generator",
+                  "discord-streamkit-overlay",
+                  "generator",
+                  "js"
+                ]
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -624,12 +861,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "library for youtube chat.",
+            "homepage": null,
             "id": 219229213,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-07-24T14:02:17Z",
+            "open_issues": 12,
             "owner": "taizan-hokuto",
             "repo": "pytchat",
-            "stars": 370
+            "stars": 370,
+            "topics": [
+              "livechat",
+              "youtube",
+              "youtube-chat"
+            ]
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         },
@@ -640,12 +886,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💬 Get full access to YouTube Live Chat",
+            "homepage": "https://holodata.github.io/masterchat/",
             "id": 350547357,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-12T23:10:37Z",
+            "open_issues": 8,
             "owner": "sigvt",
             "repo": "masterchat",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "innertube",
+              "livechat",
+              "youtube",
+              "youtube-chat",
+              "youtube-comments",
+              "youtube-livestream"
+            ]
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         },
@@ -656,12 +914,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐝 Distributed real-time YouTube live chat collector",
+            "homepage": null,
             "id": 325058479,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-07-15T10:42:34Z",
+            "open_issues": 1,
             "owner": "sigvt",
             "repo": "honeybee",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "data-mining",
+              "docker-swarm",
+              "holodata",
+              "vtuber",
+              "youtube",
+              "youtube-livestream"
+            ]
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         },
@@ -672,12 +942,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Mongoose / GraphQL based API to serve VTuber information from multiple platforms.",
+            "homepage": null,
             "id": 283833630,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2022-04-09T07:09:18Z",
+            "open_issues": 5,
             "owner": "Chooks22",
             "repo": "vt-api",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "graphql-api",
+              "hololive",
+              "nijisanji",
+              "nodejs-server",
+              "tracker",
+              "vtubers",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         },
@@ -688,12 +971,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "youtuber live status",
+            "homepage": "https://pypi.org/project/youtube-lv",
             "id": 337519843,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-09T07:12:11Z",
+            "open_issues": 0,
             "owner": "phillychi3",
             "repo": "youtube_lv",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "api",
+              "twitch",
+              "webscraping",
+              "youtube",
+              "youtube-api"
+            ]
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         },
@@ -704,12 +998,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ホロジュールからスクレイピングして配信スケジュールを取得するAPI鯖",
+            "homepage": "https://holodule-now-server.herokuapp.com/api/schedule",
             "id": 237462996,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-12-10T16:41:01Z",
+            "open_issues": 7,
             "owner": "drumath2237",
             "repo": "hololive-now-server",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         },
@@ -720,12 +1019,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple spam detector for YouTube chats with different UI options",
+            "homepage": null,
             "id": 410550049,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-04-25T02:46:41Z",
+            "open_issues": 0,
             "owner": "Asapin",
             "repo": "alkonost",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "futures-rs",
+              "reqwest",
+              "rust",
+              "serde",
+              "serde-json",
+              "spam",
+              "spam-detection",
+              "strsim",
+              "thiserror",
+              "tokio-rs",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         },
@@ -736,12 +1052,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Javascript library for the Holotools API.",
+            "homepage": "https://holores.github.io/holotools-api/index.html",
             "id": 336581108,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-04-25T12:51:53Z",
+            "open_issues": 18,
             "owner": "HoloRes",
             "repo": "holotools-api",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "holoapi",
+              "holofans",
+              "hololive",
+              "holotools",
+              "javascript",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         },
@@ -752,12 +1080,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elixir client library for the Holodex API.",
+            "homepage": null,
             "id": 400290151,
             "language": "Elixir",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-23T20:16:27Z",
+            "open_issues": 0,
             "owner": "danirukun",
             "repo": "ex-holodex",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "elixir",
+              "hololive"
+            ]
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         }
@@ -774,12 +1110,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Digital pen tracking OBS overlay for vtubers.",
+            "homepage": "https://girkovarpa.itch.io/vpen",
             "id": 504612934,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-10-20T21:36:01Z",
+            "open_issues": 0,
             "owner": "GirkovArpa",
             "repo": "vpen",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "avatar",
+              "digital",
+              "obs",
+              "overlay",
+              "pen",
+              "quark",
+              "sciter",
+              "sciter-js",
+              "sciter-js-sdk",
+              "stream",
+              "transparent",
+              "vtuber"
+            ]
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         },
@@ -795,12 +1149,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛐 Violet VS Code theme for the ancient ones",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=uetchy.ancient-one-dark",
                 "id": 393564000,
                 "language": "Makefile",
+                "license": "NOASSERTION",
                 "last_commit": "2022-07-04T05:28:35Z",
+                "open_issues": 1,
                 "owner": "sigvt",
                 "repo": "ancient-one-dark",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "dark-theme",
+                  "firefox-theme",
+                  "iterm2-theme",
+                  "theme",
+                  "vscode",
+                  "vscode-theme"
+                ]
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -818,12 +1184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "sup4bubb4.vercel.app",
                 "id": 523050849,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-08-11T00:06:50Z",
+                "open_issues": 0,
                 "owner": "vadimegorov13",
                 "repo": "sup4bubb4",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
             }
@@ -842,12 +1213,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public Discord utility bot with a range of commands, but with a focus on integration of other platforms (YouTube, Twitch, Bluesky, ...) for sending notifications in Discord channels.",
+            "homepage": null,
             "id": 188973177,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-03T21:12:40Z",
+            "open_issues": 0,
             "owner": "kabiiQ",
             "repo": "FBK",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "bluesky",
+              "bot",
+              "discord",
+              "games",
+              "kick",
+              "notifications",
+              "reminders",
+              "translator",
+              "twitch",
+              "twitter",
+              "welcome",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
         }
@@ -856,15 +1245,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:26:42.987Z",
+    "last_updated": "2026-08-29T05:02:33.595Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🤗 A curated list of Vtuber-related projects.",
+      "homepage": null,
       "id": 356792761,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2022-11-02T18:18:45Z",
+      "open_issues": 4,
       "owner": "sigvt",
       "repo": "awesome-vtuber",
-      "stars": 67
+      "stars": 67,
+      "topics": [
+        "awesome-list",
+        "holodata",
+        "hololive",
+        "vtuber",
+        "vtubers"
+      ]
     },
     "original_repository_sha": "174c50f316bcbb395a8f45dd7eea6619c082ba3e",
     "enhanced_repository": "enhansome/enhansome-vtuber",
