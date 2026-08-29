@@ -21,7 +21,8 @@
                 "owner": "saplinganon",
                 "repo": "imissfauna.com",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         },
@@ -43,7 +44,8 @@
                 "owner": "irystocratanon",
                 "repo": "i.miss.irys.moe",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         },
@@ -65,7 +67,8 @@
                 "owner": "OnlyKronii",
                 "repo": "OnlyKronii.github.io",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         },
@@ -87,7 +90,8 @@
                 "owner": "canaria3406",
                 "repo": "canaria-nakiri",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         },
@@ -109,7 +113,8 @@
                 "owner": "phillychi3",
                 "repo": "isutolive",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         }
@@ -132,7 +137,8 @@
             "owner": "sigvt",
             "repo": "learn-japanese",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         },
         {
           "node_type": "item",
@@ -147,7 +153,8 @@
             "owner": "sigvt",
             "repo": "learn-bahasa-indonesia",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         },
         {
           "node_type": "item",
@@ -162,7 +169,8 @@
             "owner": "sigvt",
             "repo": "learn-english",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         },
         {
           "node_type": "group",
@@ -182,7 +190,8 @@
                 "owner": "sigvt",
                 "repo": "learn-bahasa-indonesia",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         }
@@ -205,7 +214,8 @@
             "owner": "meihei3",
             "repo": "VTuber-music-dataset",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         },
         {
           "node_type": "group",
@@ -225,7 +235,8 @@
                 "owner": "sigvt",
                 "repo": "vtuber-livechat-dataset",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         },
@@ -247,7 +258,8 @@
                 "owner": "dd-center",
                 "repo": "vdb",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         },
@@ -269,7 +281,8 @@
                 "owner": "vlueprint",
                 "repo": "vlueprint",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         }
@@ -297,7 +310,8 @@
                 "owner": "HolodexNet",
                 "repo": "Holodex",
                 "stars": 666
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         },
@@ -319,7 +333,8 @@
                 "owner": "holofans",
                 "repo": "holoapi",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         },
@@ -341,7 +356,8 @@
                 "owner": "yoshitsugu-tahara",
                 "repo": "HoloData",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         }
@@ -369,7 +385,8 @@
                 "owner": "vtstats",
                 "repo": "web",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         },
@@ -391,7 +408,8 @@
                 "owner": "dreamwithnokz",
                 "repo": "hololive-youtube-subscriber-count",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         },
@@ -409,11 +427,12 @@
                 "archived": false,
                 "id": 297743810,
                 "language": "Python",
-                "last_commit": "2026-08-28T00:43:27Z",
+                "last_commit": "2026-08-29T00:19:54Z",
                 "owner": "Speculative",
                 "repo": "hodllive",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         }
@@ -441,7 +460,8 @@
                 "owner": "Yagato",
                 "repo": "HoloClouds",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         },
@@ -463,7 +483,8 @@
                 "owner": "vignedev",
                 "repo": "inadoki",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         }
@@ -486,7 +507,8 @@
             "owner": "HoloArchivists",
             "repo": "hoshinova",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         },
         {
           "node_type": "item",
@@ -501,7 +523,8 @@
             "owner": "hapo31",
             "repo": "YoutubeLiveApp",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         },
         {
           "node_type": "item",
@@ -516,7 +539,8 @@
             "owner": "danirukun",
             "repo": "hololive-menubar-plugin",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         },
         {
           "node_type": "group",
@@ -536,7 +560,8 @@
                 "owner": "LiveTL",
                 "repo": "LiveTL",
                 "stars": 618
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         },
@@ -558,7 +583,8 @@
                 "owner": "LiveTL",
                 "repo": "HyperChat",
                 "stars": 329
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         },
@@ -580,7 +606,8 @@
                 "owner": "paulvonlecter",
                 "repo": "DOG",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         }
@@ -603,7 +630,8 @@
             "owner": "taizan-hokuto",
             "repo": "pytchat",
             "stars": 370
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         },
         {
           "node_type": "item",
@@ -618,7 +646,8 @@
             "owner": "sigvt",
             "repo": "masterchat",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         },
         {
           "node_type": "item",
@@ -633,7 +662,8 @@
             "owner": "sigvt",
             "repo": "honeybee",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         },
         {
           "node_type": "item",
@@ -648,7 +678,8 @@
             "owner": "Chooks22",
             "repo": "vt-api",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         },
         {
           "node_type": "item",
@@ -663,7 +694,8 @@
             "owner": "phillychi3",
             "repo": "youtube_lv",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         },
         {
           "node_type": "item",
@@ -678,7 +710,8 @@
             "owner": "drumath2237",
             "repo": "hololive-now-server",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         },
         {
           "node_type": "item",
@@ -693,7 +726,8 @@
             "owner": "Asapin",
             "repo": "alkonost",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         },
         {
           "node_type": "item",
@@ -708,7 +742,8 @@
             "owner": "HoloRes",
             "repo": "holotools-api",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         },
         {
           "node_type": "item",
@@ -723,7 +758,8 @@
             "owner": "danirukun",
             "repo": "ex-holodex",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         }
       ],
       "title": "Dev Tools"
@@ -744,7 +780,8 @@
             "owner": "GirkovArpa",
             "repo": "vpen",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         },
         {
           "node_type": "group",
@@ -764,7 +801,8 @@
                 "owner": "sigvt",
                 "repo": "ancient-one-dark",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         },
@@ -786,7 +824,8 @@
                 "owner": "vadimegorov13",
                 "repo": "sup4bubb4",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:26:42.987Z"
             }
           ]
         }
@@ -809,14 +848,15 @@
             "owner": "kabiiQ",
             "repo": "FBK",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-29T02:26:42.987Z"
         }
       ],
       "title": "Discord"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:51:36.492Z",
+    "last_updated": "2026-08-29T02:26:42.987Z",
     "original_repository_info": {
       "archived": false,
       "id": 356792761,
