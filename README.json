@@ -350,8 +350,8 @@
                 "id": 192019597,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-08-28T03:51:26Z",
-                "open_issues": 25,
+                "last_commit": "2026-08-29T05:59:44Z",
+                "open_issues": 26,
                 "owner": "dd-center",
                 "repo": "vdb",
                 "stars": 206,
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-29T00:19:54Z",
+                "last_commit": "2026-08-29T19:04:44Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -756,7 +756,7 @@
                 "open_issues": 76,
                 "owner": "LiveTL",
                 "repo": "LiveTL",
-                "stars": 618,
+                "stars": 619,
                 "topics": [
                   "hacktoberfest",
                   "hololive",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:02:33.595Z",
+    "last_updated": "2026-08-29T21:56:31.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
