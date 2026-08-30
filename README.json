@@ -350,8 +350,8 @@
                 "id": 192019597,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-08-29T05:59:44Z",
-                "open_issues": 26,
+                "last_commit": "2026-08-30T12:07:10Z",
+                "open_issues": 25,
                 "owner": "dd-center",
                 "repo": "vdb",
                 "stars": 206,
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-29T19:04:44Z",
+                "last_commit": "2026-08-30T18:59:32Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -681,7 +681,7 @@
             "open_issues": 19,
             "owner": "HoloArchivists",
             "repo": "hoshinova",
-            "stars": 153,
+            "stars": 154,
             "topics": [
               "youtube-dl"
             ]
@@ -752,7 +752,7 @@
                 "id": 314984533,
                 "language": "Svelte",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-27T00:57:53Z",
+                "last_commit": "2026-08-30T02:12:05Z",
                 "open_issues": 76,
                 "owner": "LiveTL",
                 "repo": "LiveTL",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:56:31.579Z",
+    "last_updated": "2026-08-30T22:05:10.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
