@@ -448,7 +448,7 @@
                 "open_issues": 25,
                 "owner": "holofans",
                 "repo": "holoapi",
-                "stars": 196,
+                "stars": 197,
                 "topics": [
                   "hololive",
                   "nodejs"
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-31T21:15:56Z",
+                "last_commit": "2026-09-01T19:08:50Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -870,7 +870,7 @@
             "open_issues": 12,
             "owner": "taizan-hokuto",
             "repo": "pytchat",
-            "stars": 370,
+            "stars": 369,
             "topics": [
               "livechat",
               "youtube",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:23:47.933Z",
+    "last_updated": "2026-09-01T22:01:29.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",

@@ -64,7 +64,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 * [Holodex](https://holodex.net/)
   * [Source Code](https://github.com/HolodexNet/Holodex) ⭐ 666 | 🐛 55 | 🌐 Vue | 📅 2026-08-06
 * [HoloTools](https://hololive.jetri.co/#/)
-  * [Source Code](https://github.com/holofans/holoapi) ⭐ 196 | 🐛 25 | 🌐 JavaScript | 📅 2023-01-07
+  * [Source Code](https://github.com/holofans/holoapi) ⭐ 197 | 🐛 25 | 🌐 JavaScript | 📅 2023-01-07
 * [HoloData](https://holodata.vercel.app/) - ホロライブの総合情報閲覧サイト
   * [Source Code](https://github.com/Arisahyper/HoloData) ⭐ 3 | 🐛 7 | 🌐 TypeScript | 📅 2022-12-13
 * [ホロジュール (schedule.hololive.tv)](https://schedule.hololive.tv/) - ホロライブプロダクション配信予定スケジュール
@@ -83,7 +83,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 * [Hololive YouTube Subscriber Count](https://hololiveyoutubesubscribercount.vercel.app/) - A web app that shows a graph for the number of subscribers of each of the Hololive members.
   * [Source Code](https://github.com/DreamWithNokz/hololive-youtube-subscriber-count) ⭐ 5 | 🐛 4 | 🌐 JavaScript | 📅 2025-01-25
 * [Hololive Viewership Stats](http://jefftao.com/hodllive/#/subs/value) - A self-updating, interactive plot of daily viewership counts for Hololive members.
-  * [Source Code](https://github.com/Speculative/hodllive) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-08-31
+  * [Source Code](https://github.com/Speculative/hodllive) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-01
 * [HoloTracker](https://trackholo.live/en/) - Transition of Subscribers to the Hololive Channel
 * [tuber report](https://tuber.report/) - engagement metrics for 'tubers
 * [VTuber Chat Trends](https://www.vtuber-ct.net) - VTuber Chat Trends では、VTuber のライブ配信のチャット内で、どのようなキーワードが多く発言されたかを確認することができます。
@@ -164,4 +164,4 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
