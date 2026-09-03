@@ -287,7 +287,7 @@
             "open_issues": 2,
             "owner": "meihei3",
             "repo": "VTuber-music-dataset",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:42.987Z"
@@ -350,8 +350,8 @@
                 "id": 192019597,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-02T05:37:31Z",
-                "open_issues": 29,
+                "last_commit": "2026-09-03T18:58:18Z",
+                "open_issues": 31,
                 "owner": "dd-center",
                 "repo": "vdb",
                 "stars": 206,
@@ -416,7 +416,7 @@
                 "open_issues": 55,
                 "owner": "HolodexNet",
                 "repo": "Holodex",
-                "stars": 666,
+                "stars": 667,
                 "topics": [
                   "hololive",
                   "vtuber",
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-02T19:09:36Z",
+                "last_commit": "2026-09-03T19:02:07Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -752,7 +752,7 @@
                 "id": 314984533,
                 "language": "Svelte",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-31T01:09:22Z",
+                "last_commit": "2026-09-02T23:30:18Z",
                 "open_issues": 76,
                 "owner": "LiveTL",
                 "repo": "LiveTL",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T21:58:53.694Z",
+    "last_updated": "2026-09-03T21:52:57.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
