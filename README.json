@@ -350,11 +350,11 @@
                 "id": 192019597,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-03T18:58:18Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-06T07:20:20Z",
+                "open_issues": 32,
                 "owner": "dd-center",
                 "repo": "vdb",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-05T17:51:58Z",
+                "last_commit": "2026-09-06T17:56:55Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T21:41:47.823Z",
+    "last_updated": "2026-09-06T21:42:46.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
