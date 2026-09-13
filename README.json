@@ -350,8 +350,8 @@
                 "id": 192019597,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-12T20:20:29Z",
-                "open_issues": 79,
+                "last_commit": "2026-09-13T07:04:57Z",
+                "open_issues": 90,
                 "owner": "dd-center",
                 "repo": "vdb",
                 "stars": 207,
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-12T18:01:34Z",
+                "last_commit": "2026-09-13T18:28:30Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -752,11 +752,11 @@
                 "id": 314984533,
                 "language": "Svelte",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-12T20:04:02Z",
+                "last_commit": "2026-09-13T20:01:47Z",
                 "open_issues": 75,
                 "owner": "LiveTL",
                 "repo": "LiveTL",
-                "stars": 619,
+                "stars": 620,
                 "topics": [
                   "hacktoberfest",
                   "hololive",
@@ -1222,7 +1222,7 @@
             "open_issues": 0,
             "owner": "kabiiQ",
             "repo": "FBK",
-            "stars": 58,
+            "stars": 57,
             "topics": [
               "bluesky",
               "bot",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T21:38:54.933Z",
+    "last_updated": "2026-09-13T21:41:25.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
