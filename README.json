@@ -354,7 +354,7 @@
                 "open_issues": 90,
                 "owner": "dd-center",
                 "repo": "vdb",
-                "stars": 207,
+                "stars": 208,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-13T18:28:30Z",
+                "last_commit": "2026-09-14T20:07:07Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T21:41:25.796Z",
+    "last_updated": "2026-09-14T22:44:20.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
