@@ -350,8 +350,8 @@
                 "id": 192019597,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-23T15:11:23Z",
-                "open_issues": 133,
+                "last_commit": "2026-09-24T14:51:37Z",
+                "open_issues": 134,
                 "owner": "dd-center",
                 "repo": "vdb",
                 "stars": 209,
@@ -416,7 +416,7 @@
                 "open_issues": 55,
                 "owner": "HolodexNet",
                 "repo": "Holodex",
-                "stars": 669,
+                "stars": 670,
                 "topics": [
                   "hololive",
                   "vtuber",
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-23T19:23:51Z",
+                "last_commit": "2026-09-24T19:43:29Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -870,7 +870,7 @@
             "open_issues": 12,
             "owner": "taizan-hokuto",
             "repo": "pytchat",
-            "stars": 369,
+            "stars": 370,
             "topics": [
               "livechat",
               "youtube",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T22:26:41.203Z",
+    "last_updated": "2026-09-24T22:43:51.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
