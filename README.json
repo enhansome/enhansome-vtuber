@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-28T21:31:30Z",
+                "last_commit": "2026-09-29T20:24:06Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:56:02.108Z",
+    "last_updated": "2026-09-29T23:11:16.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
