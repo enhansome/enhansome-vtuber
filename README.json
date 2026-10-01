@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-30T20:28:47Z",
+                "last_commit": "2026-10-01T20:44:26Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -752,8 +752,8 @@
                 "id": 314984533,
                 "language": "Svelte",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-15T14:39:29Z",
-                "open_issues": 78,
+                "last_commit": "2026-10-01T13:59:05Z",
+                "open_issues": 79,
                 "owner": "LiveTL",
                 "repo": "LiveTL",
                 "stars": 621,
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:12:04.835Z",
+    "last_updated": "2026-10-01T23:24:45.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
