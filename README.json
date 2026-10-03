@@ -11,7 +11,7 @@
             {
               "node_type": "item",
               "title": "saplinganon/imissfauna.com",
-              "description": null,
+              "description": "saplinganon/imissfauna.com",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -43,7 +43,7 @@
             {
               "node_type": "item",
               "title": "irystocratanon/i.miss.irys.moe",
-              "description": null,
+              "description": "irystocratanon/i.miss.irys.moe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -71,7 +71,7 @@
             {
               "node_type": "item",
               "title": "OnlyKronii/OnlyKronii.github.io",
-              "description": null,
+              "description": "OnlyKronii/OnlyKronii.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -99,7 +99,7 @@
             {
               "node_type": "item",
               "title": "canaria3406/canaria-nakiri",
-              "description": null,
+              "description": "canaria3406/canaria-nakiri",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -127,7 +127,7 @@
             {
               "node_type": "item",
               "title": "phillychi3/isutolive",
-              "description": null,
+              "description": "phillychi3/isutolive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -156,7 +156,7 @@
         {
           "node_type": "item",
           "title": "Learn Japanese with Hololive",
-          "description": "⚡️",
+          "description": "sigvt/learn-japanese",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -181,7 +181,7 @@
         {
           "node_type": "item",
           "title": "Learn Bahasa Indonesia with VTubers",
-          "description": "⚡️",
+          "description": "sigvt/learn-bahasa-indonesia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -209,7 +209,7 @@
         {
           "node_type": "item",
           "title": "Learn English with Hololive",
-          "description": "⚡️",
+          "description": "sigvt/learn-english",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -238,7 +238,7 @@
             {
               "node_type": "item",
               "title": "sigvt/learn-bahasa-indonesia",
-              "description": null,
+              "description": "sigvt/learn-bahasa-indonesia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -300,7 +300,7 @@
             {
               "node_type": "item",
               "title": "sigvt/vtuber-livechat-dataset",
-              "description": null,
+              "description": "sigvt/vtuber-livechat-dataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -341,7 +341,7 @@
             {
               "node_type": "item",
               "title": "dd-center/vdb",
-              "description": null,
+              "description": "dd-center/vdb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -369,7 +369,7 @@
             {
               "node_type": "item",
               "title": "vlueprint/vlueprint",
-              "description": null,
+              "description": "vlueprint/vlueprint",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -403,7 +403,7 @@
             {
               "node_type": "item",
               "title": "HolodexNet/Holodex",
-              "description": null,
+              "description": "HolodexNet/Holodex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -435,7 +435,7 @@
             {
               "node_type": "item",
               "title": "holofans/holoapi",
-              "description": null,
+              "description": "holofans/holoapi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -466,7 +466,7 @@
             {
               "node_type": "item",
               "title": "yoshitsugu-tahara/HoloData",
-              "description": null,
+              "description": "yoshitsugu-tahara/HoloData",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -500,7 +500,7 @@
             {
               "node_type": "item",
               "title": "vtstats/web",
-              "description": null,
+              "description": "vtstats/web",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -528,7 +528,7 @@
             {
               "node_type": "item",
               "title": "dreamwithnokz/hololive-youtube-subscriber-count",
-              "description": null,
+              "description": "dreamwithnokz/hololive-youtube-subscriber-count",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -572,7 +572,7 @@
             {
               "node_type": "item",
               "title": "Speculative/hodllive",
-              "description": null,
+              "description": "Speculative/hodllive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -608,7 +608,7 @@
             {
               "node_type": "item",
               "title": "Yagato/HoloClouds",
-              "description": null,
+              "description": "Yagato/HoloClouds",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -636,7 +636,7 @@
             {
               "node_type": "item",
               "title": "vignedev/inadoki",
-              "description": null,
+              "description": "vignedev/inadoki",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -743,7 +743,7 @@
             {
               "node_type": "item",
               "title": "LiveTL/LiveTL",
-              "description": null,
+              "description": "LiveTL/LiveTL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -753,7 +753,7 @@
                 "language": "Svelte",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-02T11:27:57Z",
-                "open_issues": 78,
+                "open_issues": 79,
                 "owner": "LiveTL",
                 "repo": "LiveTL",
                 "stars": 621,
@@ -782,7 +782,7 @@
             {
               "node_type": "item",
               "title": "LiveTL/HyperChat",
-              "description": null,
+              "description": "LiveTL/HyperChat",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -819,7 +819,7 @@
             {
               "node_type": "item",
               "title": "paulvonlecter/DOG",
-              "description": null,
+              "description": "paulvonlecter/DOG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1145,7 +1145,7 @@
             {
               "node_type": "item",
               "title": "sigvt/ancient-one-dark",
-              "description": null,
+              "description": "sigvt/ancient-one-dark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1180,7 +1180,7 @@
             {
               "node_type": "item",
               "title": "vadimegorov13/sup4bubb4",
-              "description": null,
+              "description": "vadimegorov13/sup4bubb4",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:15:19.478Z",
+    "last_updated": "2026-10-03T05:12:15.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
