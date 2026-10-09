@@ -350,8 +350,8 @@
                 "id": 192019597,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-08T03:06:45Z",
-                "open_issues": 68,
+                "last_commit": "2026-10-09T10:47:16Z",
+                "open_issues": 66,
                 "owner": "dd-center",
                 "repo": "vdb",
                 "stars": 209,
@@ -416,7 +416,7 @@
                 "open_issues": 55,
                 "owner": "HolodexNet",
                 "repo": "Holodex",
-                "stars": 671,
+                "stars": 672,
                 "topics": [
                   "hololive",
                   "vtuber",
@@ -448,7 +448,7 @@
                 "open_issues": 25,
                 "owner": "holofans",
                 "repo": "holoapi",
-                "stars": 198,
+                "stars": 199,
                 "topics": [
                   "hololive",
                   "nodejs"
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-08T20:58:24Z",
+                "last_commit": "2026-10-09T20:28:09Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -752,7 +752,7 @@
                 "id": 314984533,
                 "language": "Svelte",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-05T01:04:24Z",
+                "last_commit": "2026-10-09T00:29:04Z",
                 "open_issues": 78,
                 "owner": "LiveTL",
                 "repo": "LiveTL",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:57:13.828Z",
+    "last_updated": "2026-10-09T23:29:30.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
