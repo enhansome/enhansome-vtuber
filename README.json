@@ -350,7 +350,7 @@
                 "id": 192019597,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-13T11:56:05Z",
+                "last_commit": "2026-10-14T16:07:01Z",
                 "open_issues": 73,
                 "owner": "dd-center",
                 "repo": "vdb",
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-13T20:56:33Z",
+                "last_commit": "2026-10-14T19:56:02Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -895,7 +895,7 @@
             "open_issues": 8,
             "owner": "sigvt",
             "repo": "masterchat",
-            "stars": 88,
+            "stars": 89,
             "topics": [
               "innertube",
               "livechat",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:25:58.797Z",
+    "last_updated": "2026-10-14T22:37:01.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
