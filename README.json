@@ -354,7 +354,7 @@
                 "open_issues": 76,
                 "owner": "dd-center",
                 "repo": "vdb",
-                "stars": 209,
+                "stars": 210,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:26:42.987Z"
@@ -412,8 +412,8 @@
                 "id": 289465557,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-11T08:23:13Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-17T08:29:58Z",
+                "open_issues": 54,
                 "owner": "HolodexNet",
                 "repo": "Holodex",
                 "stars": 673,
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-16T19:12:21Z",
+                "last_commit": "2026-10-17T18:05:48Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:11:33.736Z",
+    "last_updated": "2026-10-17T21:44:12.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
