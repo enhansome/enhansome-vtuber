@@ -412,11 +412,11 @@
                 "id": 289465557,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-20T08:05:49Z",
+                "last_commit": "2026-10-21T04:42:02Z",
                 "open_issues": 54,
                 "owner": "HolodexNet",
                 "repo": "Holodex",
-                "stars": 673,
+                "stars": 674,
                 "topics": [
                   "hololive",
                   "vtuber",
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-20T19:47:27Z",
+                "last_commit": "2026-10-21T19:52:44Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T22:39:16.331Z",
+    "last_updated": "2026-10-21T22:44:25.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
