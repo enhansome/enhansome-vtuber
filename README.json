@@ -350,8 +350,8 @@
                 "id": 192019597,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-30T08:17:41Z",
-                "open_issues": 72,
+                "last_commit": "2026-10-31T05:47:03Z",
+                "open_issues": 71,
                 "owner": "dd-center",
                 "repo": "vdb",
                 "stars": 211,
@@ -412,7 +412,7 @@
                 "id": 289465557,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-30T04:35:02Z",
+                "last_commit": "2026-10-31T19:37:08Z",
                 "open_issues": 55,
                 "owner": "HolodexNet",
                 "repo": "Holodex",
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-30T20:18:24Z",
+                "last_commit": "2026-10-31T19:40:03Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -756,7 +756,7 @@
                 "open_issues": 81,
                 "owner": "LiveTL",
                 "repo": "LiveTL",
-                "stars": 618,
+                "stars": 617,
                 "topics": [
                   "hacktoberfest",
                   "hololive",
@@ -795,7 +795,7 @@
                 "open_issues": 4,
                 "owner": "LiveTL",
                 "repo": "HyperChat",
-                "stars": 329,
+                "stars": 328,
                 "topics": [
                   "chrome-extension",
                   "firefox-addon",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:13:02.964Z",
+    "last_updated": "2026-10-31T22:48:53.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
