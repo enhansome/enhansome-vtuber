@@ -310,7 +310,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2022-08-04T05:34:49Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "sigvt",
                 "repo": "vtuber-livechat-dataset",
                 "stars": 99,
@@ -412,7 +412,7 @@
                 "id": 289465557,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-11-07T21:57:55Z",
+                "last_commit": "2026-11-08T05:38:57Z",
                 "open_issues": 55,
                 "owner": "HolodexNet",
                 "repo": "Holodex",
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-07T19:47:37Z",
+                "last_commit": "2026-11-08T20:05:09Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T22:59:46.301Z",
+    "last_updated": "2026-11-08T23:08:10.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
