@@ -50,9 +50,9 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 
 * [VTuber Music Dataset](https://github.com/yameholo/VTuber-music-dataset) ⭐ 1 | 🐛 2 | 🌐 HTML | 📅 2023-05-01 - VTuber が投稿した歌ってみた動画の情報を人力で集めたデータセット
 * [Vtuber 1B](https://www.kaggle.com/uetchy/vtuber-livechat)⚡️ - Large Scale Virtual YouTubers Live Chat and Superchat Dataset for NLP
-  * [Source Code](https://github.com/holodata/vtuber-livechat-dataset) ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2022-08-04
+  * [Source Code](https://github.com/holodata/vtuber-livechat-dataset) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2022-08-04
 * [vdb](https://vdb.vtbs.moe/) - JSON Database of Vtubers
-  * [Source Code](https://github.com/dd-center/vdb) ⭐ 211 | 🐛 73 | 🌐 JavaScript | 📅 2026-11-07
+  * [Source Code](https://github.com/dd-center/vdb) ⭐ 211 | 🐛 73 | 🌐 JavaScript | 📅 2026-11-09
 * [Vlueprint](https://vlueprint.org/) - VTuber LOD
   * [Source Code](https://github.com/vlueprint/vlueprint) ⭐ 40 | 🐛 45 | 🌐 TypeScript | 📅 2023-01-27
 * [バーチャル YouTuberLOD (VTuber LOD)](https://mdlab.slis.tsukuba.ac.jp/lodc2018/vtuber/) - VTuber LOD
@@ -62,7 +62,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 ## Search Engine
 
 * [Holodex](https://holodex.net/)
-  * [Source Code](https://github.com/HolodexNet/Holodex) ⭐ 673 | 🐛 55 | 🌐 Vue | 📅 2026-11-08
+  * [Source Code](https://github.com/HolodexNet/Holodex) ⭐ 673 | 🐛 55 | 🌐 Vue | 📅 2026-11-09
 * [HoloTools](https://hololive.jetri.co/#/)
   * [Source Code](https://github.com/holofans/holoapi) ⭐ 199 | 🐛 25 | 🌐 JavaScript | 📅 2023-01-07
 * [HoloData](https://holodata.vercel.app/) - ホロライブの総合情報閲覧サイト
@@ -164,4 +164,4 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
