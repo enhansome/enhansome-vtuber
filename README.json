@@ -412,7 +412,7 @@
                 "id": 289465557,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-11-09T08:31:57Z",
+                "last_commit": "2026-11-10T04:28:43Z",
                 "open_issues": 55,
                 "owner": "HolodexNet",
                 "repo": "Holodex",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:23:17.498Z",
+    "last_updated": "2026-11-11T00:14:56.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",

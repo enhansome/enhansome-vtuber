@@ -62,7 +62,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 ## Search Engine
 
 * [Holodex](https://holodex.net/)
-  * [Source Code](https://github.com/HolodexNet/Holodex) ⭐ 673 | 🐛 55 | 🌐 Vue | 📅 2026-11-09
+  * [Source Code](https://github.com/HolodexNet/Holodex) ⭐ 673 | 🐛 55 | 🌐 Vue | 📅 2026-11-10
 * [HoloTools](https://hololive.jetri.co/#/)
   * [Source Code](https://github.com/holofans/holoapi) ⭐ 199 | 🐛 25 | 🌐 JavaScript | 📅 2023-01-07
 * [HoloData](https://holodata.vercel.app/) - ホロライブの総合情報閲覧サイト
@@ -164,4 +164,4 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
