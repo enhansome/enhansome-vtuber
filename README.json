@@ -313,7 +313,7 @@
                 "open_issues": 1,
                 "owner": "sigvt",
                 "repo": "vtuber-livechat-dataset",
-                "stars": 99,
+                "stars": 100,
                 "topics": [
                   "data-science",
                   "dataset",
@@ -350,8 +350,8 @@
                 "id": 192019597,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-13T11:09:11Z",
-                "open_issues": 89,
+                "last_commit": "2026-11-14T09:27:57Z",
+                "open_issues": 79,
                 "owner": "dd-center",
                 "repo": "vdb",
                 "stars": 211,
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-13T21:46:00Z",
+                "last_commit": "2026-11-14T20:17:36Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -756,7 +756,7 @@
                 "open_issues": 83,
                 "owner": "LiveTL",
                 "repo": "LiveTL",
-                "stars": 619,
+                "stars": 620,
                 "topics": [
                   "hacktoberfest",
                   "hololive",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:28:10.262Z",
+    "last_updated": "2026-11-14T23:23:11.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
