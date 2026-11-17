@@ -350,8 +350,8 @@
                 "id": 192019597,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-15T23:15:18Z",
-                "open_issues": 81,
+                "last_commit": "2026-11-16T03:37:28Z",
+                "open_issues": 79,
                 "owner": "dd-center",
                 "repo": "vdb",
                 "stars": 211,
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-15T20:43:11Z",
+                "last_commit": "2026-11-16T23:56:39Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -752,7 +752,7 @@
                 "id": 314984533,
                 "language": "Svelte",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-15T21:35:45Z",
+                "last_commit": "2026-11-17T01:15:30Z",
                 "open_issues": 84,
                 "owner": "LiveTL",
                 "repo": "LiveTL",
@@ -795,7 +795,7 @@
                 "open_issues": 4,
                 "owner": "LiveTL",
                 "repo": "HyperChat",
-                "stars": 328,
+                "stars": 329,
                 "topics": [
                   "chrome-extension",
                   "firefox-addon",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T23:30:48.659Z",
+    "last_updated": "2026-11-17T02:36:45.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
