@@ -416,7 +416,7 @@
                 "open_issues": 55,
                 "owner": "HolodexNet",
                 "repo": "Holodex",
-                "stars": 674,
+                "stars": 673,
                 "topics": [
                   "hololive",
                   "vtuber",
@@ -581,7 +581,7 @@
                 "id": 297743810,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-18T22:48:49Z",
+                "last_commit": "2026-11-19T22:51:36Z",
                 "open_issues": 0,
                 "owner": "Speculative",
                 "repo": "hodllive",
@@ -756,7 +756,7 @@
                 "open_issues": 84,
                 "owner": "LiveTL",
                 "repo": "LiveTL",
-                "stars": 620,
+                "stars": 619,
                 "topics": [
                   "hacktoberfest",
                   "hololive",
@@ -795,7 +795,7 @@
                 "open_issues": 4,
                 "owner": "LiveTL",
                 "repo": "HyperChat",
-                "stars": 329,
+                "stars": 328,
                 "topics": [
                   "chrome-extension",
                   "firefox-addon",
@@ -1245,7 +1245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:29:03.567Z",
+    "last_updated": "2026-11-20T01:26:16.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤗 A curated list of Vtuber-related projects.",
